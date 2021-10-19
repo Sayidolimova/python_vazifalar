@@ -1,0 +1,6 @@
+print( "\" nexia \",\"tiko\",'damas' ko'rganlar qilar havas")
+print("5 ning 4- darajasi " + str(5**4))
+print("22 ni 4 ga bo'lganda qoldiq: " +str( 22%4))
+print("tomonlari 125 ga teng bp'gan kvadrat ning perimetristr"+str(125*4) + "ga teng va yuzasi:"+str(125**2) + "ga teng")
+print("diometri 12 ga teng bo'lgan doiraning yuzasini toping:"+str(3.14* (12/2)**2))
+print("❤️tomonlari 7 va 8 ga teng bo;lgan uchburchak gipotenuzasini toping:" + str((6**2+7**2)**(1/2)))
